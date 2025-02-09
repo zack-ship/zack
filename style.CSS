@@ -1,147 +1,18 @@
 body{
-.resolucion {
-    width: 99%;
-    text-align: center;
-}
+   @media (min-width: 768px) and (max-width: 990px){
 
-
-/**Movil**/
-
-@media (max-width: 767px) {
-.pollito{.pollito{
+ background-image: url(fondo1.png);
+     background-position: center center;
+     background-repeat no-repeat;
+     background-size: cover;
+     background-attachment:  fixed;
+ .pollito{
       width: 400px; 
       margin-top:1px;
-      margin-left: 150px;
-        display: none;
-
-      background-image: url(fondo1.png);
-    background-position: center center;
-    background-repeat no-repeat;
-    background-size: cover;
-    background-attachment:  fixed;
-.yes{ color: rgb(8, 118, 186);
-    width: 400px; 
-    margin-top:1px;
-    margin-left: 50px;
-     justify-content: center;
-     background-image: url(babymetal.webp);
-     border: 2px solid black ;
-     border-radius: 50px;
-     cursor: pointer;
-     padding: 25px;
-    text-decoration: none;
-    
-     transition: 5s ease;
-    }
-    .yes:hover {
-        background-image: url(abrazopollo.gif);
-
-    }
-    }
-
-    .tablet {
-        display: none;
-    }
-}
-
-
-/**Tablet**/
-
-@media (min-width: 768px) and (max-width: 990px) {
-    .desktop {
-        display: none;
-    }
-    .movil {
-        display: none;
-    }
-}
-
-
-/**Escritorio**/
-
-@media (min-width: 991px) {
-    .tablet {
-        display: none;
-    }
-    .movil {
-        display: none;
-    }
-}
-body{
-      background-image: url(fondo1.png);
-    background-position: center center;
-    background-repeat no-repeat;
-    background-size: cover;
-    background-attachment:  fixed;
-    
-    
-    
-    
-
-}
-.nampa{
-    width: 200px;
-    position: absolute;
-    top: 500px;
-    left: 245px;
-
-}
-.susuka{ width: 200px;
-       margin-top: 25px;
-      margin-left: 250px;
+      margin-left: 200px;
 }  
 
-}                     
-.foto2{
-    width: 50px;    
-    position: absolute;
-    top: 0;
-    left: 270px;
-    
+
 
 }
-
-.yes{ color: rgb(8, 118, 186);
-    width: 400px; 
-    margin-top:1px;
-    margin-left: 50px;
-     justify-content: center;
-     background-image: url(babymetal.webp);
-     border: 2px solid black ;
-     border-radius: 50px;
-     cursor: pointer;
-     padding: 25px;
-    text-decoration: none;
-    
-     transition: 5s ease;
-    }
-    .yes:hover {
-        background-image: url(abrazopollo.gif);
-
-    }
-    
-.no{ 
-        justify-content: center;
-        color: rgb(8, 118, 186);
-        background-image: url(babymetal.webp);
-        border: 2px solid black ;
-        border-radius: 50px;
-        cursor: pointer;
-        left: 50px;
-        padding: 25px;
-        text-decoration: none;
-        transition: 5s ease; }
-
-    .no:hover{ background-image: url(abrazopollo.gif);
-         
-        }
-
-
-.inicio{ 
-    position: relative;
-    font-family: fantasy;
-    color: rgb(7, 7, 7);
-    position: relative;
-    text-align:center ;
-
 }
