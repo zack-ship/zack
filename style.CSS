@@ -21,3 +21,4 @@ body{ background-image: url(fondo1.png);
     left: 270px;
     image-resolution: @media (max-width: 767px);
 }
+}
