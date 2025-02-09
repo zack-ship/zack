@@ -9,14 +9,15 @@ body{ background-image: url(fondo1.png);
 
 
  .pollito{
-      width: 50px; 
+      width: 100px; 
       margin-top:1px;
-      margin-left: 50%;
+      margin-left: 45%;
       image-resolution: @media (max-width: 767px);
-      
-
-
-
-
-}
+      }
+.foto2{
+    width: 50px;    
+    position: absolute;
+    top: 0;
+    left: 270px;
+    image-resolution: @media (max-width: 767px);
 }
