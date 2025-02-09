@@ -3,8 +3,9 @@ body{ background-image: url(fondo1.png);
      background-repeat no-repeat;
      background-size: cover;
      background-attachment:  fixed;
+     image-resolution: @media (max-width: 767px);
 
-   @media (min-width: 768px) and (max-width: 990px)
+  
 
 
  .pollito{
