@@ -22,9 +22,9 @@ body{ background-image: url(fondo1.png);
     image-resolution: @media (max-width: 767px);
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 400px; 
-    margin-top:1px;
-    margin-left: 350px;
+     width: 400px; 
+     margin-top:1px;
+     margin-left: 350px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -32,7 +32,7 @@ body{ background-image: url(fondo1.png);
      cursor: pointer;
      padding: 25px;
      text-decoration: none;
-     image-resolution: @media (max-width: 767px);
+     
     
      transition: 5s ease;
     }
@@ -50,24 +50,12 @@ body{ background-image: url(fondo1.png);
         padding: 25px;
         text-decoration: none;
         transition: 5s ease;  
-         image-resolution: @media (max-width: 767px);
+       
         
      }
 
     .no:hover{ background-image: url(abrazopollo.gif);
          
      }
-
-
-
-
-
-
-
-
-
-
-
-
 
 }
