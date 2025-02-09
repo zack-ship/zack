@@ -18,7 +18,7 @@ body{ background-image: url(fondo1.png);
     width: 50px;    
     position: absolute;
     top: 0;
-    left: 270px;
+    left: 40%px;
     image-resolution: @media (max-width: 767px);
-}
+     }
 }
