@@ -1,5 +1,5 @@
 body{
-   @media (min-width: 768px) and (max-width: 990px){
+   @media (min-width: 768px) and (max-width: 990px)
 
  background-image: url(fondo1.png);
      background-position: center center;
@@ -10,7 +10,7 @@ body{
       width: 400px; 
       margin-top:1px;
       margin-left: 200px;
-}  
+
 
 
 
