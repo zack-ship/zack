@@ -38,7 +38,7 @@ body{
 .yes{ color: rgb(8, 118, 186);
     width: 400px; 
     margin-top:1px;
-    margin-left: 50%;
+    margin-left: 50px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -61,7 +61,7 @@ body{
         border: 2px solid black ;
         border-radius: 50px;
         cursor: pointer;
-        left: 50%;
+        left: 50px;
         padding: 25px;
         text-decoration: none;
         transition: 5s ease; }
