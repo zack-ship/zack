@@ -11,8 +11,9 @@ body{ background-image: url(fondo1.png);
     font-family: fantasy;
     color: rgb(7, 7, 7);
     position: relative;
-    text-align:center ;
-    left: 35%;
+    text-align:center  center;
+    left: 100%;
+    
     @media (max-width: 767px)
 
 }
@@ -34,7 +35,7 @@ body{ background-image: url(fondo1.png);
 .yes{ color: rgb(8, 118, 186);
     width: 400px; 
     margin-top:10%;
-    margin-left: 20%x;
+    margin-left: 100%x;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -53,7 +54,7 @@ body{ background-image: url(fondo1.png);
     
 .no{     width: 400px; 
         margin-top:10px;
-        margin-left: 20%x; 
+        margin-left: 100%x; 
         justify-content: center;
         color: rgb(8, 118, 186);
         background-image: url(babymetal.webp);
