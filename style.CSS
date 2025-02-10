@@ -52,10 +52,10 @@ body{ background-image: url(fondo1.png);
      border: 2px solid black ;
      border-radius: 50px;
      cursor: pointer;
-     padding: 5px;
+     padding: 15px;
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 15px;
+     font-size: 20px;
      font-style: italic; 
    
     
