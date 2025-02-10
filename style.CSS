@@ -37,7 +37,7 @@ body{ background-image: url(fondo1.png);
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 400px; 
+    width: 100px; 
     position: relative; 
     text-align: center;
     top:100px;
@@ -59,7 +59,7 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{ color: rgb(8, 118, 186);
-    width: 400px; 
+    width: 100px; 
     position: relative; 
     text-align: center;
     top:100px;
