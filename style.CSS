@@ -21,23 +21,23 @@ body{ background-image: url(fondo1.png);
 
  .pollito{
       position: relative;
-      width: 600px; 
-      top:100px;
-      left: 100px;
+      width: 6000px; 
+      top:1000px;
+      left: 1000px;
       image-resolution: none;
       }
 .foto2{
-    width: 50px;    
+    width: 500px;    
     position: absolute;
     top: 0px;
     left: 50px;
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 100px; 
+    width: 10px; 
     position: relative; 
     text-align: center;
-    top:100px;
+    top:10000px;
     left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
@@ -56,10 +56,10 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{ color: rgb(8, 118, 186);
-    width: 100px; 
+    width: 10px; 
     position: relative; 
     text-align: center;
-    top:100px;
+    top:10000px;
     left: 100px;
     justify-content: center;
     background-image: url(babymetal.webp);
