@@ -1,4 +1,4 @@
-@media(min-width: 768px) and (max-width: 990px)
+
 body{ background-image: url(fondo1.png);
      background-position: center center;
      background-repeat no-repeat;
@@ -13,6 +13,8 @@ body{ background-image: url(fondo1.png);
     font-family: fantasy;
     color: rgb(7, 7, 7);
     text-align:center;
+     align-items: center;
+      justify-content: center;
    
  
 
@@ -20,11 +22,13 @@ body{ background-image: url(fondo1.png);
 
 
  .pollito{
-      position: relative;
-      width: 100px; 
-      top:100px;
-      left: 100px;
-      image-resolution: none;
+      width: 400px; 
+      margin-top:1px;
+      margin-left: 200px;
+      image-resolution: ;              
+      -ms-flex-align: center;
+      align-items: center;
+      justify-content: center;
       }
 .foto2{
     width: 10px;    
