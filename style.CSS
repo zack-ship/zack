@@ -7,8 +7,7 @@ body{ background-image: url(fondo1.png);
  @media (max-width: 767px)
   
 .inicio{   width: 100%
-    
-    left: 400px;
+    margin-left: 35%;
     position: relative;
     font-family: fantasy;
     color: rgb(7, 7, 7);
@@ -36,8 +35,10 @@ body{ background-image: url(fondo1.png);
      }
 .yes{ color: rgb(8, 118, 186);
     width: 400px; 
-    margin-top:10%;
-    margin-left: 100px;
+    position: relative; 
+    text-align: center;
+    top:10%;
+    left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
