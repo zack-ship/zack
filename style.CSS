@@ -5,6 +5,7 @@ body{ background-image: url(fondo1.png);
      background-size: cover;
      background-attachment:  fixed;
      image-resolution:none;
+ (max-width: 767px) {
   
 .inicio{ 
     width: 1000px; 
@@ -96,6 +97,7 @@ body{ background-image: url(fondo1.png);
     top: 1000px;
     left: 250px;
 
+   }
    }
 
 }
