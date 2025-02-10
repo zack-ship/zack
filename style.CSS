@@ -6,7 +6,8 @@ body{ background-image: url(fondo1.png);
      background-attachment:  fixed;
      image-resolution:none;
   
-.inicio{
+.inicio{ 
+    width: 1000px; 
     font-family: Arial, Helvetica, sans-serif;
      font-size: xx-larger; 
     position: relative;
@@ -26,7 +27,7 @@ body{ background-image: url(fondo1.png);
  .pollito{
       width: 700px; 
       margin-top:200px;
-      margin-left: 125px;
+      margin-left: 70px;
       image-resolution: ;              
       -ms-flex-align: center;
       align-items: center;
@@ -40,7 +41,7 @@ body{ background-image: url(fondo1.png);
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 800px; 
+    width: 1200px; 
     position: relative; 
     text-align: center;
     top: 100px;
@@ -65,7 +66,7 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{ color: rgb(8, 118, 186);
-    width: 700px; 
+    width: 1200px; 
     position: relative; 
     text-align: center;
     top:100px;
