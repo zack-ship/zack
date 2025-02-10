@@ -7,15 +7,15 @@ body{ background-image: url(fondo1.png);
  @media (max-width: 767px)
 @media (min-width: 991px)
   
-.inicio{   width: 100%
+.inicio{   
     position: relative;
     left: 400px;
     position: relative;
     font-family: fantasy;
     color: rgb(7, 7, 7);
     position: relative;
-    text-align:center  center;
-    width: 100%
+    text-align:center;
+   
     
     @media (max-width: 767px)
 
@@ -26,7 +26,7 @@ body{ background-image: url(fondo1.png);
       position: relative;
       width: 500px; 
       margin-top:1px;
-      margin-left: 25%;
+      margin-left: 5%;
       image-resolution: none;
       }
 .foto2{
@@ -63,7 +63,7 @@ body{ background-image: url(fondo1.png);
     position: relative; 
     text-align: center;
     top:100px;
-    left: 200px;
+    left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
