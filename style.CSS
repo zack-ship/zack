@@ -9,7 +9,7 @@ body{ background-image: url(fondo1.png);
 .inicio{ 
     width: 1000px; 
     font-family: Arial, Helvetica, sans-serif;
-     font-size: xx-larger; 
+     font-size: 100px; 
     position: relative;
     left: 100px;
     top:200px;
@@ -27,7 +27,7 @@ body{ background-image: url(fondo1.png);
  .pollito{
       width: 700px; 
       margin-top:200px;
-      margin-left: 100px;
+      margin-left:200px;
       image-resolution: ;              
       -ms-flex-align: center;
       align-items: center;
@@ -54,7 +54,7 @@ body{ background-image: url(fondo1.png);
      padding: 100px;
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
-     font-size: xxx-larger;
+     font-size: 50px;
      font-style: italic; 
    
     
@@ -76,10 +76,10 @@ body{ background-image: url(fondo1.png);
     border: 2px solid black ;
     border-radius: 50px;
     cursor: pointer;
-    padding: 200px;
+    padding: 50px;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: xxx-larger;
+    font-size: 50px;
     font-style: italic; 
     
     }
