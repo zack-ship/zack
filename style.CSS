@@ -6,10 +6,12 @@ body{ background-image: url(fondo1.png);
      background-attachment:  fixed;
      image-resolution:none;
   
-.inicio{   
+.inicio{
+    font-family: Arial, Helvetica, sans-serif;
+     font-size: larger; 
     position: relative;
     left: 200px;
-    top:5px;
+    top:200px;
     font-family: fantasy;
     color: rgb(7, 7, 7);
     text-align:center;
@@ -22,9 +24,9 @@ body{ background-image: url(fondo1.png);
 
 
  .pollito{
-      width: 600px; 
+      width: 700px; 
       margin-top:200px;
-      margin-left: 200px;
+      margin-left: 150px;
       image-resolution: ;              
       -ms-flex-align: center;
       align-items: center;
@@ -38,10 +40,10 @@ body{ background-image: url(fondo1.png);
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 200px; 
+    width: 500px; 
     position: relative; 
     text-align: center;
-    top:700px;
+    top:500px;
     left: 300px;
      justify-content: center;
      background-image: url(babymetal.webp);
@@ -60,10 +62,10 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{ color: rgb(8, 118, 186);
-    width: 300px; 
+    width: 700px; 
     position: relative; 
     text-align: center;
-    top:600px;
+    top:500px;
     left: 600px;
     justify-content: center;
     background-image: url(babymetal.webp);
