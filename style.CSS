@@ -23,6 +23,7 @@ body{ background-image: url(fondo1.png);
 
 
  .pollito{
+      position: relative;
       width: 500px; 
       margin-top:1px;
       margin-left: 25%;
@@ -39,7 +40,7 @@ body{ background-image: url(fondo1.png);
     width: 400px; 
     position: relative; 
     text-align: center;
-    top:100%;
+    top:100px;
     left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
@@ -57,20 +58,20 @@ body{ background-image: url(fondo1.png);
 
     }
     
-.no{     width: 400px; 
-        position: relative; 
-         top:100px;
-        left: 200px;
-        text-align: center;
-        justify-content: center;
-        color: rgb(8, 118, 186);
-        background-image: url(babymetal.webp);
-        border: 2px solid black ;
-        border-radius: 50px;
-        cursor: pointer;
-        padding: 25px;
-        text-decoration: none;
-        transition: 5s ease;
+.no{ color: rgb(8, 118, 186);
+    width: 400px; 
+    position: relative; 
+    text-align: center;
+    top:100px;
+    left: 200px;
+     justify-content: center;
+     background-image: url(babymetal.webp);
+     border: 2px solid black ;
+     border-radius: 50px;
+     cursor: pointer;
+     padding: 25px;
+    text-decoration: none;
+     @media (max-width: 767px)   
     }
 
     .no:hover{ background-image: url(abrazopollo.gif);
