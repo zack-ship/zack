@@ -1,10 +1,10 @@
+@media(min-width: 768px) and (max-width: 990px)
 body{ background-image: url(fondo1.png);
      background-position: center center;
      background-repeat no-repeat;
      background-size: cover;
      background-attachment:  fixed;
      image-resolution:none;
- @media(min-width: 768px) and (max-width: 990px)
   
 .inicio{   
     position: relative;
@@ -21,24 +21,24 @@ body{ background-image: url(fondo1.png);
 
  .pollito{
       position: relative;
-      width: 6000px; 
-      top:1000px;
-      left: 1000px;
+      width: 100px; 
+      top:100px;
+      left: 100px;
       image-resolution: none;
       }
 .foto2{
-    width: 500px;    
+    width: 10px;    
     position: absolute;
     top: 0px;
-    left: 50px;
+    left: 100px;
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
     width: 10px; 
     position: relative; 
     text-align: center;
-    top:10000px;
-    left: 100px;
+    top:400px;
+    left: 0px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -59,8 +59,8 @@ body{ background-image: url(fondo1.png);
     width: 10px; 
     position: relative; 
     text-align: center;
-    top:10000px;
-    left: 100px;
+    top:400px;
+    left: 50px;
     justify-content: center;
     background-image: url(babymetal.webp);
     border: 2px solid black ;
