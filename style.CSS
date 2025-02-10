@@ -8,7 +8,7 @@ body{ background-image: url(fondo1.png);
   
 .inicio{   
     position: relative;
-    left: 400px;
+    left: 200px;
     top:5px;
     font-family: fantasy;
     color: rgb(7, 7, 7);
@@ -22,8 +22,8 @@ body{ background-image: url(fondo1.png);
 
 
  .pollito{
-      width: 400px; 
-      margin-top:1px;
+      width: 600px; 
+      margin-top:200px;
       margin-left: 200px;
       image-resolution: ;              
       -ms-flex-align: center;
@@ -31,18 +31,18 @@ body{ background-image: url(fondo1.png);
       justify-content: center;
       }
 .foto2{
-    width: 10px;    
+    width: 100px;    
     position: absolute;
     top: 0px;
-    left: 100px;
+    left: 300px;
     image-resolution:none;
      }
 .yes{ color: rgb(8, 118, 186);
-    width: 10px; 
+    width: 200px; 
     position: relative; 
     text-align: center;
-    top:400px;
-    left: 0px;
+    top:700px;
+    left: 300px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -60,11 +60,11 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{ color: rgb(8, 118, 186);
-    width: 10px; 
+    width: 300px; 
     position: relative; 
     text-align: center;
-    top:400px;
-    left: 50px;
+    top:600px;
+    left: 600px;
     justify-content: center;
     background-image: url(babymetal.webp);
     border: 2px solid black ;
@@ -83,8 +83,8 @@ body{ background-image: url(fondo1.png);
     text-align: center;
     width: 200px;
     position: absolute;
-    top: 500px;
-    left: 245px;
+    top: 1000px;
+    left: 300px;
 
    }
 
