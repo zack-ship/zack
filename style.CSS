@@ -12,10 +12,10 @@ body{ background-image: url(fondo1.png);
     font-family: Arial, Helvetica, sans-serif;
      font-size: 50px; 
     position: relative;
-    left: 75px;
+    left: 50px;
     top:200px;
     font-family: fantasy;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     text-align:center;
      align-items: center;
       justify-content: center;
@@ -53,10 +53,10 @@ body{ background-image: url(fondo1.png);
      border: 2px solid black ;
      border-radius: 50px;
      cursor: pointer;
-     padding: 15px;
+     padding: 150px;
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 20px;
+     font-size: 15px;
      font-style: italic; 
    
     
@@ -78,10 +78,10 @@ body{ background-image: url(fondo1.png);
     border: 2px solid black ;
     border-radius: 50px;
     cursor: pointer;
-    padding: 15px;
+    padding: 10px;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    font-size: 15px;
     font-style: italic; 
     
     }
