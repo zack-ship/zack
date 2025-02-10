@@ -5,9 +5,11 @@ body{ background-image: url(fondo1.png);
      background-attachment:  fixed;
      image-resolution:none;
  @media (max-width: 767px)
+@media (min-width: 991px)
   
 .inicio{   width: 100%
-    margin-left: 35%;
+    position: relative;
+    left: 400px;
     position: relative;
     font-family: fantasy;
     color: rgb(7, 7, 7);
@@ -37,7 +39,7 @@ body{ background-image: url(fondo1.png);
     width: 400px; 
     position: relative; 
     text-align: center;
-    top:10%;
+    top:100%;
     left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
@@ -56,8 +58,9 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{     width: 400px; 
-     
         position: relative; 
+         top:100px;
+        left: 200px;
         text-align: center;
         justify-content: center;
         color: rgb(8, 118, 186);
