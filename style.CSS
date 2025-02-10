@@ -6,13 +6,14 @@ body{ background-image: url(fondo1.png);
      image-resolution:none;
  @media (max-width: 767px)
   
-.inicio{ 
+.inicio{   width: 100%
+    
+    left: 400px;
     position: relative;
     font-family: fantasy;
     color: rgb(7, 7, 7);
     position: relative;
     text-align:center  center;
-    left: 400px;
     width: 100%
     
     @media (max-width: 767px)
@@ -36,7 +37,7 @@ body{ background-image: url(fondo1.png);
 .yes{ color: rgb(8, 118, 186);
     width: 400px; 
     margin-top:10%;
-    margin-left: 100%x;
+    margin-left: 100px;
      justify-content: center;
      background-image: url(babymetal.webp);
      border: 2px solid black ;
@@ -54,8 +55,8 @@ body{ background-image: url(fondo1.png);
     }
     
 .no{     width: 400px; 
-        margin-top:10px;
-        margin-left: 100%x; 
+        margin-top:100px;
+        margin-left: 100%; 
         justify-content: center;
         color: rgb(8, 118, 186);
         background-image: url(babymetal.webp);
