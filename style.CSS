@@ -27,7 +27,7 @@ body{ background-image: url(fondo1.png);
  .pollito{
       width: 700px; 
       margin-top:200px;
-      margin-left:200px;
+      margin-left:250px;
       image-resolution: ;              
       -ms-flex-align: center;
       align-items: center;
@@ -54,7 +54,7 @@ body{ background-image: url(fondo1.png);
      padding: 100px;
      text-decoration: none;
      font-family: Arial, Helvetica, sans-serif;
-     font-size: 50px;
+     font-size: 25px;
      font-style: italic; 
    
     
@@ -79,7 +79,7 @@ body{ background-image: url(fondo1.png);
     padding: 50px;
     text-decoration: none;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 50px;
+    font-size: 25px;
     font-style: italic; 
     
     }
