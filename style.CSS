@@ -98,6 +98,11 @@ body{ background-image: url(fondo1.png);
     left: 250px;
 
    }
-   
+ @media (mac.width: 600px){
+  .container{
+    pandding:10px;
+    font-size: 14px;
+  }
+
 
 }
